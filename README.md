@@ -19,7 +19,7 @@ Follow these instructions to set up and run the DFS-Pub-Sub system on your local
   
 1. Clone the repository:  
   
-    git clone https://github.com/kdheerajreddy97/DFS-Pub-Sub.git
+    git clone 
     cd DFS-Pub-Sub  
   
 2. Create a virtual environment and activate it:
@@ -56,7 +56,4 @@ Follow these instructions to set up and run the DFS-Pub-Sub system on your local
     dfs_client = DFSClient()  
     retrieved_file = dfs_client.retrieve_file("file.txt")
 
-
-**Team Members:**  
-Dheeraj Reddy Kukkala  
-Venkatesh Meesala  
+ 
