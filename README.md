@@ -19,7 +19,7 @@ Follow these instructions to set up and run the DFS-Pub-Sub system on your local
   
 1. Clone the repository:  
   
-    git clone 
+    git clone https://github.com/ashmitha28/Pub-Sub.git
     cd DFS-Pub-Sub  
   
 2. Create a virtual environment and activate it:
